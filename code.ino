@@ -2,7 +2,7 @@
 
 /*
     L293D connections
-                                       ___
+                                      ___
  enable   servo1= 5V arduino       1-|   |-16  5V arduino to feed L293D
  input1  = pin 9 arduino           2-| L |-15  Input4  = pin 6 arduino
  output1 = terminal1 servo1        3-| 2 |-14  Output4 = terminal2 servo2
