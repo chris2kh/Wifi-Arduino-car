@@ -19,5 +19,5 @@ This project was made using an Arduino UNO and an ESP8266 Wifi module
 ## User commands car to do something
 ![command](files/userClicksButton.png)
 
-## Picture of the build car :)
+## Picture of the built car :)
 ![realCar](files/realCar.png)
